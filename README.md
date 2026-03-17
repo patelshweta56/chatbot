@@ -144,8 +144,3 @@ This project is licensed under the MIT License.
 
 Shweta Patel
 
----
-
-## ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub!
